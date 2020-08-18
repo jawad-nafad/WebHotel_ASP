@@ -1,0 +1,29 @@
+﻿@model IEnumerable<WebHotel.Models.BookingViewModels.BookRoomStat>
+
+<h2>Booking Distribution with Respect to Rooms</h2>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.RoomID)</th>
+            <th>@Html.DisplayNameFor(model => model.BookingCount)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Count() != 0)
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.RoomID)</td>
+                    <td>@Html.DisplayFor(modelItem => item.BookingCount)</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="2"><em>There is No Statistics found based on Room ID available</em></td>
+            </tr>
+        }
+    </tbody>
+</table>

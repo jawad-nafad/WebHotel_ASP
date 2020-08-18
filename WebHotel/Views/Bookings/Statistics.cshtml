@@ -1,0 +1,15 @@
+﻿@model WebHotel.Models.BookingViewModels.Statistics
+@{
+    ViewData["Title"] = "Statistics";
+}
+
+<h2>Statistics</h2>
+
+<div class="row">
+    @Html.Partial("_CalcCusPostcodeStat", Model.CalcPostcodeStats)
+</div>
+<div class="row">
+    @Html.Partial("_CalcBookRoomStat", Model.RoomStats)
+</div>
+
+

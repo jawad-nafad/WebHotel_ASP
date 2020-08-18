@@ -1,0 +1,62 @@
+﻿@model IEnumerable<WebHotel.Models.Booking>
+
+@{
+    ViewData["Title"] = "MyBookings";
+}
+
+<h2>My Bookings</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TheCustomer.FamilyName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TheCustomer.GivenName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TheRoom.ID)
+            </th>
+            <th>
+                <a asp-action="MyBookings" asp-route-sortBooking="@ViewData["NextCheckInBooking"]">
+                    @Html.DisplayNameFor(model => model.CheckIn)
+                </a>
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CheckOut)
+            </th>
+            <th>
+                <a asp-action="MyBookings" asp-route-sortBooking="@ViewData["NextCostBooking"]">
+                    @Html.DisplayNameFor(model => model.Cost)
+                </a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.TheCustomer.FamilyName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TheCustomer.GivenName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TheRoom.ID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CheckIn)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CheckOut)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cost)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

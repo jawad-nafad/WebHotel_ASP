@@ -1,0 +1,36 @@
+D:\WebHotel\WebHotel\obj\Debug\netcoreapp2.0\WebHotel.csproj.CoreCompileInputs.cache
+D:\WebHotel\WebHotel\obj\Debug\netcoreapp2.0\WebHotel.AssemblyInfoInputs.cache
+D:\WebHotel\WebHotel\obj\Debug\netcoreapp2.0\WebHotel.AssemblyInfo.cs
+D:\WebHotel\WebHotel\bin\Debug\netcoreapp2.0\WebHotel.deps.json
+D:\WebHotel\WebHotel\bin\Debug\netcoreapp2.0\WebHotel.runtimeconfig.json
+D:\WebHotel\WebHotel\bin\Debug\netcoreapp2.0\WebHotel.runtimeconfig.dev.json
+D:\WebHotel\WebHotel\bin\Debug\netcoreapp2.0\WebHotel.dll
+D:\WebHotel\WebHotel\bin\Debug\netcoreapp2.0\WebHotel.pdb
+D:\WebHotel\WebHotel\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\WebHotel\WebHotel\obj\Debug\netcoreapp2.0\WebHotel.dll
+D:\WebHotel\WebHotel\obj\Debug\netcoreapp2.0\WebHotel.pdb
+D:\WebHotel\WebHotel\obj\Debug\netcoreapp2.0\WebHotel.csprojAssemblyReference.cache
+C:\Users\Hemanto Paul\Music\WebHotel-2\WebHotel\WebHotel\bin\Debug\netcoreapp2.0\WebHotel.deps.json
+C:\Users\Hemanto Paul\Music\WebHotel-2\WebHotel\WebHotel\bin\Debug\netcoreapp2.0\WebHotel.runtimeconfig.json
+C:\Users\Hemanto Paul\Music\WebHotel-2\WebHotel\WebHotel\bin\Debug\netcoreapp2.0\WebHotel.runtimeconfig.dev.json
+C:\Users\Hemanto Paul\Music\WebHotel-2\WebHotel\WebHotel\bin\Debug\netcoreapp2.0\WebHotel.dll
+C:\Users\Hemanto Paul\Music\WebHotel-2\WebHotel\WebHotel\bin\Debug\netcoreapp2.0\WebHotel.pdb
+C:\Users\Hemanto Paul\Music\WebHotel-2\WebHotel\WebHotel\obj\Debug\netcoreapp2.0\WebHotel.csprojAssemblyReference.cache
+C:\Users\Hemanto Paul\Music\WebHotel-2\WebHotel\WebHotel\obj\Debug\netcoreapp2.0\WebHotel.csproj.CoreCompileInputs.cache
+C:\Users\Hemanto Paul\Music\WebHotel-2\WebHotel\WebHotel\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Hemanto Paul\Music\WebHotel-2\WebHotel\WebHotel\obj\Debug\netcoreapp2.0\WebHotel.AssemblyInfoInputs.cache
+C:\Users\Hemanto Paul\Music\WebHotel-2\WebHotel\WebHotel\obj\Debug\netcoreapp2.0\WebHotel.AssemblyInfo.cs
+C:\Users\Hemanto Paul\Music\WebHotel-2\WebHotel\WebHotel\obj\Debug\netcoreapp2.0\WebHotel.dll
+C:\Users\Hemanto Paul\Music\WebHotel-2\WebHotel\WebHotel\obj\Debug\netcoreapp2.0\WebHotel.pdb
+G:\WebHotel-2\WebHotel-2\WebHotel\WebHotel\bin\Debug\netcoreapp2.0\WebHotel.deps.json
+G:\WebHotel-2\WebHotel-2\WebHotel\WebHotel\bin\Debug\netcoreapp2.0\WebHotel.runtimeconfig.json
+G:\WebHotel-2\WebHotel-2\WebHotel\WebHotel\bin\Debug\netcoreapp2.0\WebHotel.runtimeconfig.dev.json
+G:\WebHotel-2\WebHotel-2\WebHotel\WebHotel\bin\Debug\netcoreapp2.0\WebHotel.dll
+G:\WebHotel-2\WebHotel-2\WebHotel\WebHotel\bin\Debug\netcoreapp2.0\WebHotel.pdb
+G:\WebHotel-2\WebHotel-2\WebHotel\WebHotel\obj\Debug\netcoreapp2.0\WebHotel.csprojAssemblyReference.cache
+G:\WebHotel-2\WebHotel-2\WebHotel\WebHotel\obj\Debug\netcoreapp2.0\WebHotel.csproj.CoreCompileInputs.cache
+G:\WebHotel-2\WebHotel-2\WebHotel\WebHotel\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+G:\WebHotel-2\WebHotel-2\WebHotel\WebHotel\obj\Debug\netcoreapp2.0\WebHotel.AssemblyInfoInputs.cache
+G:\WebHotel-2\WebHotel-2\WebHotel\WebHotel\obj\Debug\netcoreapp2.0\WebHotel.AssemblyInfo.cs
+G:\WebHotel-2\WebHotel-2\WebHotel\WebHotel\obj\Debug\netcoreapp2.0\WebHotel.dll
+G:\WebHotel-2\WebHotel-2\WebHotel\WebHotel\obj\Debug\netcoreapp2.0\WebHotel.pdb

@@ -1,0 +1,29 @@
+﻿@model IEnumerable<WebHotel.Models.BookingViewModels.CusPostcodeStat>
+
+<h2>Customer Distribution with Respect to Postcodes</h2>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Postalcode)</th>
+            <th>@Html.DisplayNameFor(model => model.CustomerCount)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Count() != 0)
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Postalcode)</td>
+                    <td>@Html.DisplayFor(modelItem => item.CustomerCount)</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="2"><em>There is No Statistics found based on postcode available</em></td>
+            </tr>
+        }
+    </tbody>
+</table>
